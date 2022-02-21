@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{home:!0,heroImage:"/images/logo.png",heroText:"\u4E2A\u4EBA\u535A\u5BA2",tagline:"\u524D\u7AEF\u5F00\u53D1",footer:"MIT Licensed | Copyright \xA9 2022-present Evan You"},excerpt:"",headers:[],git:{},filePathRelative:"README.md"};export{e as data};
